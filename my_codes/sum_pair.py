@@ -1,4 +1,4 @@
-
+# This program is to find the pair_sum from a array
 def pair_sum(arr, k):
 
     if len(arr) < 2:
